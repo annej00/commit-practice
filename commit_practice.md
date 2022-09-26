@@ -8,29 +8,29 @@
 1. Git과 Github는 같다. (맞으면 O, 틀리면 X)
 
    - 답 : x
-   - 이유 :
+   - 이유 : Git은 버전 관리 프로그램, Github는 Git의 저장소
 
    
 
 2. 터미널 명령어 `cd .`은 현재 위치의 부모 폴더로 이동하라는 의미이다. (맞으면 O, 틀리면 X)
 
    - 답 :  x
-   - 이유 :
+   - 이유 : `cd.` 는 인라인 코드, 즉 한줄 코드이다
 
 
 
 3. 마크다운 문법에서 글씨의 크기를 키우고 싶다고해서 본문을 제목으로 지정하면 안된다. (맞으면 O, 틀리면 X)
    - 답 : x
-   - 이유 :
+   - 이유 : 상관없음
 
 
 
 4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
-   - 답 : o
-   - 이유 :
+   - 답 : x
+   - 이유 : Working Directory, Staging Area, Local Repository가 있다
 
 
 
 5. Commit ID는 중복 가능하다. (맞으면 O, 틀리면 X)
    - 답 : x
-   - 이유 :
+   - 이유 : 중복 불가능
